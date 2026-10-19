@@ -1,0 +1,13 @@
+{
+  "name": "HV Verse",
+  "short_name": "HV Verse",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F9F9FB",
+  "theme_color": "#F9F9FB",
+  "icons": [
+    { "src": "/icons/hv-verse-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/hv-verse-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/hv-verse-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
