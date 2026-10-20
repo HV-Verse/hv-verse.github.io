@@ -279,4 +279,4 @@ var ch=Q(".aichat");if(ch){var u=Q(".am.u",ch),tt=Q(".tt",ch),d=Q(".dots",ch),r1
 /* scroll progress and the floating apply button */
 var pb=Q(".sprog i"),fa=Q(".fapply"),hero=Q(".xh"),fin2=Q(".lfinal"),tick=0,upd=function(){tick=0;var d=document.documentElement,m=d.scrollHeight-innerHeight;pb&&(pb.style.transform="scaleX("+(m>0?Math.min(1,scrollY/m):0)+")");if(fa){var hb=hero.getBoundingClientRect().bottom,ft=fin2?fin2.getBoundingClientRect().top:1e9;fa.classList.toggle("on",hb<80&&ft>innerHeight-40)}};
 addEventListener("scroll",function(){tick||(tick=requestAnimationFrame(upd))},{passive:true});addEventListener("resize",upd);upd();
-}();</script></body> </html> 
+}();</script><script>document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest('a[href^="#"]');if(!a||e.defaultPrevented)return;var h=a.getAttribute("href");if(h.length<2)return;var t=document.getElementById(h.slice(1));if(!t)return;e.preventDefault();t.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"start"});try{history.replaceState(history.state,"",h)}catch(x){}})</script></body> </html> 
