@@ -1,10 +1,10 @@
 # HV Verse
 
-> HV Verse is a set of three free, AI-powered web apps for personal and career growth, made by Harsh Goyal (India) and launched on 1 October 2026. The apps run in any browser on phone or laptop, with nothing to install. HV AI, the built-in assistant, understands English, Hindi and Hinglish, typed or spoken, and always asks before it changes anything.
+> HV Verse is a set of three free, AI-powered web apps for personal and career growth, made by HV Verse (India) and launched on 1 October 2026. The apps run in any browser on phone or laptop, with nothing to install. HV AI, the built-in assistant, understands English, Hindi and Hinglish, typed or spoken, and always asks before it changes anything.
 
 - Website: https://thehvverse.com/
 - Price: free for everyone, HV AI included
-- Made by: Harsh Goyal (https://www.linkedin.com/in/harshvittori)
+- Made by: HV Verse (https://www.linkedin.com/company/thehvverse)
 - Company: Haritt Group (https://haritt.com/), spelled with two Ts. Sister brand: Haritt Developers (https://developers.haritt.com/), websites, software, branding and AI solutions for businesses
 
 ## The three apps
